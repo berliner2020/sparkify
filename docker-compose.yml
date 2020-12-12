@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  python:
+    image: "python:latest"
+
+  postgresql:
+    image: "postgres:latest"
+    restart: "always"

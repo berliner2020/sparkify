@@ -1,0 +1,6 @@
+ipynb_checkpoints
+venv
+.gitignore.swp
+.idea/
+__pycache__/
+.ipynb_checkpoints/
